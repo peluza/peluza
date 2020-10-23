@@ -13,7 +13,7 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 
 **Support my work on:**
 
-[<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/>](https://github.com/peluza/peluza/blob/main/img/9187a380-d909-473f-9878-2e4805dd4318.jpeg)
+[<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/>](https://raw.githubusercontent.com/peluza/peluza/main/img/9187a380-d909-473f-9878-2e4805dd4318.jpeg)
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/edisonisaza)
 
 **Skills**
