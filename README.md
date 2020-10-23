@@ -9,13 +9,12 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 **You can find me on:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/edisonisaza)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/edison-isaza)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edison-isaza/)
 
 **Support my work on:**
 
-[<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPFJREFUeNrsVW0NhDAMZSiYBCRMAg6YhElAAg6QgBQkIIFzMAk7SLa70rT7uB3J/bgmhUBf31u7Lmuav5Wac04fvrmrnd8GYAyD0SnyxcVtycHEVn5ZzeG9f68E0YowsCJNCQTAllHdQsRllCOq/iaYvMtUF3CgAwJ9xYD0gKc7/7XnQwjxADhZMYSv3MDZgmAQGSoEBsR1KW+saRNqz8ht4u4BltvIyABYn7uzuUdAobMgM8nhGVCpBJMrQpCb3JKnlAhBPpZu2syJEOTzpwcHt0t5L29LpogF01JPzoh8lxyNcKhA3XXbqdvIf9aeAgwApQNy3AmH0wEAAAAASUVORK5CYII="/>](https://github.com/jahirfiquitiva/jahirfiquitiva)
-[<img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%235F7FFF.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>](https://buymeacoff.ee/jahirfiquitiva)
-[<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://jahir.xyz/DonatePayPal)
+[<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/>](https://github.com/peluza/peluza/blob/main/img/9187a380-d909-473f-9878-2e4805dd4318.jpeg)
+[<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/edisonisaza)
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
