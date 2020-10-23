@@ -17,8 +17,8 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/edisonisaza)
 
 **Skills**
-
-<p align="center"> Low level </p>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<p align="center" font-family="Lobster, cursive"> Low level </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
 </p>
@@ -62,10 +62,11 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 <p align="center"> 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
 <img src="https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>
+</p>
 
 
 **GitHub Stats**
-<p align="auto"> 
-
+<p align="center"> 
 <img src="https://jf-gh-stats.vercel.app/api?username=peluza&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6"/>
 <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=peluza&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6"/>
+</p>
