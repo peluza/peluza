@@ -17,8 +17,7 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/edisonisaza)
 
 **Skills**
-<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-<p align="center" font-family="Lobster, cursive"> Low level </p>
+<p align="center"> Low level </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
 </p>
