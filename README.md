@@ -1,7 +1,6 @@
 👋 &nbsp;Hello, world! <br/> I am Edison Isaza
 ======
 
-
 I am a person passionate about software development and very curious about technology. I am from [Medellin, Colombia.](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
 
 I have seen how computer science, bigdata, artificial intelligence and blockchain have improved the lives of people in their daily lives, my aspiration is to do something that contributes to this evolutionary change that we are experiencing.
@@ -21,6 +20,7 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 <p align="center"> 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
 </p>
+
 <p align="center"> High level </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
@@ -32,7 +32,6 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
 </p>
-
 
 <p align="center"> Data base </p>
 <p align="center"> 
@@ -57,12 +56,12 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Docker-0089D6?logo=docker&logoColor=white&style=for-the-badge"/>
 </p>
+
 <p align="center"> Office </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
 <img src="https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>
 </p>
-
 
 **GitHub Stats**
 <p align="center"> 
