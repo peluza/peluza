@@ -18,16 +18,41 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 
 **Skills**
 
+***Low level***
+
 [<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+
+***High level***
+
 [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+***Web developer***
+
 [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+***Data base***
+
+[<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+***Web server***
+
+
+***Framework***
+
+
 [<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 [<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-[<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+***Devops***
+
+[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 [<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+[<img src="https://img.shields.io/badge/Docker-0089D6?logo=docker&logoColor=white&style=for-the-badge"/>](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+
+***Office***
+
 [<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 [<img src="https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>](https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
