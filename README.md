@@ -1,4 +1,4 @@
-<FONT SIZE=15 align="center"> <em><strong>👋 &nbsp;Hello, world! <br/> I am Edison Isaza</strong></em> </FONT> 
+<h1 align="center"> <em><strong>👋 &nbsp;Hello, world! <br/> I am Edison Isaza</strong></em> </h1> 
 ======
 
 I am a person passionate about software development and very curious about technology. I am from [Medellin, Colombia.](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
