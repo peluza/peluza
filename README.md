@@ -29,7 +29,7 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 [<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 [<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 [<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-[<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee"/>](https://img.shields.io/badge/Microsoft%20Visio-3955A3?logo=microsoft-visio&logoColor=white&style=for-the-badgee)
+[<img src="https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>](https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
 
 
