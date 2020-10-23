@@ -2,7 +2,7 @@
 ======
 
 
-I am a person passionate about software development and very curious about technology from [Medellin, Colombia.](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
+I am a person passionate about software development and very curious about technology. I am from [Medellin, Colombia.](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
 
 I have seen how computer science, bigdata, artificial intelligence and blockchain have improved the lives of people in their daily lives, my aspiration is to do something that contributes to this evolutionary change that we are experiencing.
 
