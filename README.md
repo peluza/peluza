@@ -66,6 +66,6 @@ I have seen how computer science, bigdata, artificial intelligence and blockchai
 
 **GitHub Stats**
 <p align="center"> 
-<img src="https://jf-gh-stats.vercel.app/api?username=peluza&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6"/>
-<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=peluza&langs_count=10&hide=html"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=peluza&show_icons=true&count_private=true&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peluza&layout=compact&theme=radical" />
 </p>
