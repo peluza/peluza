@@ -1,71 +1,100 @@
-<h1 align="center"> <em><strong>👋 &nbsp;Hello, world! <br/> I am Edison Isaza</strong></em> </h1> 
-======
+<h1 align="center">Hi there, I'm Edison Isaza 👋</h1>
+<h3 align="center">Senior Technical Consultant | Integration Engineer | AI & Data Specialist</h3>
 
-I am a person passionate about software development and very curious about technology. I am from [Medellin, Colombia.](https://www.google.com/maps/place/Medell%C3%ADn,+Antioquia/)
-
-I have seen how computer science, bigdata, artificial intelligence and blockchain have improved the lives of people in their daily lives, my aspiration is to do something that contributes to this evolutionary change that we are experiencing.
-
-**You can find me on:**
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/edisonisaza)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edison-isaza/)
-
-**Support my work on:**
-
-[<img src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"/>](https://raw.githubusercontent.com/peluza/peluza/main/img/9187a380-d909-473f-9878-2e4805dd4318.jpeg)
-[<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/edisonisaza)
-
-**Skills**
-<p align="center"> <em><strong>Low level</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/edison-isaza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:edisonisaza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/edisonisaza">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
-<p align="center"> <em><strong>High level</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
+<p align="center">
+  I am a Senior Developer based in <b>Medellin, Colombia</b> with over 17 years of experience. My focus is on building robust <b>System Integrations</b>, developing <b>Financial Algorithms (Trading Bots)</b>, and implementing <b>AI Solutions</b> (LLMs, Chatbots).
 </p>
 
+<br/>
 
-<p align="center"> <em><strong>Web developer</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
+## 🚀 About Me
+
+- 🔭 **Currently working on:** Enterprise integrations for Security Systems (VMS, Access Control) and Financial Trading Bots using Machine Learning.
+- 🤝 **I specialize in:** Connecting heterogeneous systems (IBM IOC, Milestone, SecurOS) and automating complex workflows.
+- 🌱 **Learning:** Advanced Prompt Engineering & Agentic AI Workflows.
+- ⚡ **Fun fact:** I combine software engineering with quantitative analysis for financial markets.
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+### 🧠 AI, Data & Trading
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaTrader_4/5-000?style=for-the-badge&logo=metatrader&logoColor=white" />
 </p>
 
-<p align="center"> <em><strong>Data base</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/mysql-%23000.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
+### 🔗 Backend & Integration
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<p align="center"> <em><strong>Web server</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/nginx%20-%217346.svg?&style=for-the-badge&logo=nginx&logoColor=white" /> 
-<img src="https://img.shields.io/badge/apache2%20-EA1D2C?&style=for-the-badge&logo=apache&logoColor=white"/> 
+### 💻 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-<p align="center"> <em><strong>Framework</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" /> 
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
+### 📱 Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center"> <em><strong>Devops</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Docker-0089D6?logo=docker&logoColor=white&style=for-the-badge"/>
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peluza&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peluza&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</div>
+
+<br/>
+
+<p align="center">
+  <i>Let's connect and build scalable solutions together.</i>
 </p>
 
-<p align="center"> <em><strong>Office</strong></em> </p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
-<img src="https://camo.githubusercontent.com/c5f6898a06e4295a1ea0e21bee4a80f2123c584b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230566973696f2d3339353541333f6c6f676f3d6d6963726f736f66742d766973696f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"/>
-</p>
-
-**GitHub Stats**
-<p align="center"> 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=peluza&show_icons=true&count_private=true&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peluza&layout=compact&theme=radical&langs_count=10" />
-</p>
+<details>
+  <summary>☕ Support my work</summary>
+  <br/>
+  <p align="center">
+    <a href="https://raw.githubusercontent.com/peluza/peluza/main/img/9187a380-d909-473f-9878-2e4805dd4318.jpeg">
+      <img src="https://img.shields.io/badge/Bitcoin-Wallet-FF9900?style=flat&logo=bitcoin" />
+    </a>
+    <a href="https://www.paypal.com/paypalme/edisonisaza">
+      <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal" />
+    </a>
+  </p>
+</details>
